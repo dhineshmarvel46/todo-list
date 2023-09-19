@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/dhineshmarvel46/todo-list.git/static/css/main.706a15c5.css",
-    "main.js": "/dhineshmarvel46/todo-list.git/static/js/main.b745c02a.js",
-    "static/js/787.eee498d3.chunk.js": "/dhineshmarvel46/todo-list.git/static/js/787.eee498d3.chunk.js",
-    "index.html": "/dhineshmarvel46/todo-list.git/index.html",
-    "main.706a15c5.css.map": "/dhineshmarvel46/todo-list.git/static/css/main.706a15c5.css.map",
-    "main.b745c02a.js.map": "/dhineshmarvel46/todo-list.git/static/js/main.b745c02a.js.map",
-    "787.eee498d3.chunk.js.map": "/dhineshmarvel46/todo-list.git/static/js/787.eee498d3.chunk.js.map"
+    "main.css": "/todo-list/static/css/main.706a15c5.css",
+    "main.js": "/todo-list/static/js/main.03d19d09.js",
+    "static/js/787.eee498d3.chunk.js": "/todo-list/static/js/787.eee498d3.chunk.js",
+    "index.html": "/todo-list/index.html",
+    "main.706a15c5.css.map": "/todo-list/static/css/main.706a15c5.css.map",
+    "main.03d19d09.js.map": "/todo-list/static/js/main.03d19d09.js.map",
+    "787.eee498d3.chunk.js.map": "/todo-list/static/js/787.eee498d3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.706a15c5.css",
-    "static/js/main.b745c02a.js"
+    "static/js/main.03d19d09.js"
   ]
 }
